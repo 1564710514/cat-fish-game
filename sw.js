@@ -1,4 +1,4 @@
-const CACHE_NAME = 'cat-fish-v1';
+const CACHE_NAME = 'cat-fish-v2';
 const URLS_TO_CACHE = [
   './',
   './index.html',
@@ -7,8 +7,8 @@ const URLS_TO_CACHE = [
   './icon-512.png',
   './小猫排队/game-xmdy.html',
   './小猫钓鱼/game-xmdy.html',
-  './排鱼竿/game-xmdy.html',
-  './晒鱼干/game-xmdy.html'
+  './收鱼竿/game-xmdy.html',
+  './晒小鱼/game-xmdy.html'
 ];
 
 self.addEventListener('install', event => {
