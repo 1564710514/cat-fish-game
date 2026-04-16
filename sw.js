@@ -1,4 +1,4 @@
-const CACHE_NAME = 'cat-fish-v3';
+const CACHE_NAME = 'cat-fish-v4';
 const URLS_TO_CACHE = [
   './',
   './index.html',
